@@ -2,68 +2,63 @@
 
 ![Fantasy](Images/Fantasy.jpg)
 
-Generate a report that breaks down the game's purchasing data into meaningful insights.
+Generated report below that breaks down the game's purchasing data into meaningful insights.
 
 ### Player Count
-
-* Total Number of Players
+* Total Number of Players: 576
 
 ### Purchasing Analysis (Total)
-
-* Number of Unique Items
-* Average Purchase Price
-* Total Number of Purchases
-* Total Revenue
+* Number of Unique Items: 183
+* Average Purchase Price: $3.05
+* Total Number of Purchases: 780
+* Total Revenue: $2,379.77
 
 ### Gender Demographics
-
-* Percentage and Count of Male Players
-* Percentage and Count of Female Players
-* Percentage and Count of Other / Non-Disclosed
+* Percentage and Count of Male Players: 652
+* Percentage and Count of Female Players: 113
+* Percentage and Count of Other / Non-Disclosed: 15
 
 ### Purchasing Analysis (Gender)
-
-* The below each broken by gender
-  * Purchase Count
-  * Average Purchase Price
-  * Total Purchase Value
-  * Average Purchase Total per Person by Gender
+* The below each broken by gender:
+  * Purchase Count: males(652) females(113) other(15)
+  * Average Purchase Price: males($3.02) females($3.20) other($3.35)
+  * Total Purchase Value: males($1,967.64) females($361.94) other($50.19)
+  * Average Purchase Total per Person by Gender: males($4.07) females($4.47) other($4.56)
 
 ### Age Demographics
-
 * The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
   * Average Purchase Total per Person by Age Group
+  ![Demographic](Images/agegroup.png)
 
 ### Top Spenders
-
 * Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
   * SN
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
+  ![Spender](Images/topspender.png)
 
 ### Most Popular Items
-
 * Identify the 5 most popular items by purchase count, then list (in a table):
   * Item ID
   * Item Name
   * Purchase Count
   * Item Price
   * Total Purchase Value
+  ![Popular](Images/toppopuler.png)
 
 ### Most Profitable Items
-
 * Identify the 5 most profitable items by total purchase value, then list (in a table):
   * Item ID
   * Item Name
   * Purchase Count
   * Item Price
   * Total Purchase Value
+  ![Profitable](Images/topprofitableitem.png)
 
-* See [Example Solution](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) for a reference on expected format.
 
 ## Academic scoring report
 
