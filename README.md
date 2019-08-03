@@ -31,7 +31,7 @@ Generated report below that breaks down the game's purchasing data into meaningf
   * Average Purchase Price
   * Total Purchase Value
   * Average Purchase Total per Person by Age Group
-  ![Demographic](Images/agegroups.png)
+  ![Demographic](Images/agegroups.PNG)
 
 ### Top Spenders
 * Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
@@ -39,7 +39,7 @@ Generated report below that breaks down the game's purchasing data into meaningf
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
-  ![Spender](Images/topspender.png)
+  ![Spender](Images/topspender.PNG)
 
 ### Most Popular Items
 * Identify the 5 most popular items by purchase count, then list (in a table):
@@ -48,7 +48,7 @@ Generated report below that breaks down the game's purchasing data into meaningf
   * Purchase Count
   * Item Price
   * Total Purchase Value
-  ![Popular](Images/toppopuler.png)
+  ![Popular](Images/toppopuler.PNG)
 
 ### Most Profitable Items
 * Identify the 5 most profitable items by total purchase value, then list (in a table):
@@ -57,7 +57,7 @@ Generated report below that breaks down the game's purchasing data into meaningf
   * Purchase Count
   * Item Price
   * Total Purchase Value
-  ![Profitable](Images/topprofitableitem.png)
+  ![Profitable](Images/topprofitableitem.PNG)
 
 
 ## Academic scoring report
