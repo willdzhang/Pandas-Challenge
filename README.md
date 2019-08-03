@@ -68,22 +68,20 @@ Generated report below that breaks down the game's purchasing data into meaningf
 
 ![Education](Images/education.jpg)
 
-Analyze the district-wide standardized test results to aggregate the data to and showcase obvious trends in school performance.
+Results of analyzed district-wide standardized test scores. Aggregated data to showcase trends in school performance.
 
 ### District Summary
-
 * Create a high level snapshot (in table form) of the district's key metrics, including:
-  * Total Schools
-  * Total Students
-  * Total Budget
-  * Average Math Score
-  * Average Reading Score
-  * % Passing Math
-  * % Passing Reading
-  * Overall Passing Rate (Average of the above two)
+  * Total Schools: 15
+  * Total Students: 39,170
+  * Total Budget: $24,649,428.00
+  * Average Math Score: 78.99
+  * Average Reading Score: 81.88
+  * % Passing Math: 74.98%
+  * % Passing Reading: 85.81%
+  * Overall Passing Rate (Average of the above two): 80.39%
 
 ### School Summary
-
 * Create an overview table that summarizes key metrics about each school, including:
   * School Name
   * School Type
@@ -95,9 +93,10 @@ Analyze the district-wide standardized test results to aggregate the data to and
   * % Passing Math
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
+  
+  ![SchoolSummary](Images/schoolsummary.PNG)
 
 ### Top Performing Schools (By Passing Rate)
-
 * Create a table that highlights the top 5 performing schools based on Overall Passing Rate. Include:
   * School Name
   * School Type
@@ -109,34 +108,40 @@ Analyze the district-wide standardized test results to aggregate the data to and
   * % Passing Math
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
+  
+  ![Top5](Images/top5school.PNG)
 
 ### Bottom Performing Schools (By Passing Rate)
-
 * Create a table that highlights the bottom 5 performing schools based on Overall Passing Rate. Include all of the same metrics as above.
 
-### Math Scores by Grade\*\*
+![Bottom5](Images/bottom5school.PNG)
 
+### Math Scores by Grade\*\*
 * Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-### Reading Scores by Grade
+![mathscore](Images/mathscores.PNG)
 
+### Reading Scores by Grade
 * Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-### Scores by School Spending
+![readingscore](Images/readingscores.PNG)
 
+### Scores by School Spending
 * Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
   * Average Math Score
   * Average Reading Score
   * % Passing Math
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
+  
+  ![spendingscore](Images/spendingscores.PNG)
 
 ### Scores by School Size
-
 * Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
 
-### Scores by School Type
+![sizescore](Images/sizescores.PNG)
 
+### Scores by School Type
 * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
 
-* See [Example Solution](PyCitySchools/PyCitySchools_starter.ipynb) for a reference on the expected format.
+![typescore](Images/typescores.PNG)
