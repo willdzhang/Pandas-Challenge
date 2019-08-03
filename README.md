@@ -31,7 +31,7 @@ Generated report below that breaks down the game's purchasing data into meaningf
   * Average Purchase Price
   * Total Purchase Value
   * Average Purchase Total per Person by Age Group
-  ![Demographic](Images/agegroup.png)
+  ![Demographic](Images/agegroup.PNG)
 
 ### Top Spenders
 * Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
